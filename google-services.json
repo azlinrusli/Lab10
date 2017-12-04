@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "999339103722",
+    "firebase_url": "https://yourname-push-3a33c.firebaseio.com",
+    "project_id": "yourname-push-3a33c",
+    "storage_bucket": "yourname-push-3a33c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999339103722:android:89bf3a22b31127c6",
+        "android_client_info": {
+          "package_name": "my.edu.uitm.app1.yourname_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999339103722-5kj873adasfgm5q4ncq6g4p594s0dbe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhHO0yCjXyaokTu95D6GDJQiFVfcFh1R0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
